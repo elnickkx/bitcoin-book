@@ -1,0 +1,6 @@
+////
+Ne fordítsd le a :változó neveket:
+////
+:index_heading: Tárgymutató
+:toc-title: Tartalomjegyzék
+:table-caption: Táblázat

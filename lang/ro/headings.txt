@@ -1,0 +1,6 @@
+ 
+Nu traduceți :variable names:
+ 
+:index_heading: Index
+:toc-title: Conținut
+:table-caption: Tabel

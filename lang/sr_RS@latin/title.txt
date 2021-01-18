@@ -1,0 +1,7 @@
+////
+Ne prevodite :imena promenljivih:
+////
+:author: Andreas M. Antonopoulos
+:book_title: Bitkoin i blokčejn otvoreno drugo izdnje
+:subtitle: Osnove i programiranje
+:publisher: aantonop Books LLC

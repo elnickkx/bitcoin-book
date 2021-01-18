@@ -1,0 +1,7 @@
+ 
+Nu traduceți :variable names:
+ 
+:author: Andreas M. Antonopoulos
+:book_title: Mastering Bitcoin Open a Doua Ediție
+:subtitle: Programarea Open Blockchain
+:publisher: aantonop Books LLC

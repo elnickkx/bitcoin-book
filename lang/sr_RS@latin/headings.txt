@@ -1,0 +1,6 @@
+////
+Ne prevodite :imena promenljivih:
+////
+:index_heading: Index
+:toc-title: Table of Contents
+:table-caption: Table
